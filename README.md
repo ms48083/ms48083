@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ms48083
+- 👋 Hi, I’m Mike Schwedt @ms48083
 - 👀 I’m interested in being outdoors
 - 🌱 I’m currently learning how to write better
 - 💞️ I’m looking to collaborate on agile transformation or embedded development
