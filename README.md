@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Mike Schwedt @ms48083
-- 👀 I’m interested in being outdoors
-- 🌱 I’m currently learning how to write better
-- 💞️ I’m looking to collaborate on agile transformation or embedded development
 - 📫 You can reach me at ms48083@netscape.net or ms48083@gmail.com
 
 <!---
